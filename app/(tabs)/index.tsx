@@ -1,3 +1,5 @@
+
+import React from 'react';
 import { ScrollView, StyleSheet, Image, FlatList, TouchableOpacity } from 'react-native';
 import axios from 'axios';
 import { Text, View } from '@/components/Themed';
